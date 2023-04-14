@@ -11,10 +11,25 @@ body{
 
   }
 
-  header{
+  h2{
 
+    padding-bottom: 3%;
+    padding-top: 2%;
+    font-size: 140%;
+
+  }
+
+  h3{
+
+    padding-top: 2%;
+
+  }
+
+  header{
+    
+    padding: 1%;
     width: 100%;
-    background-color: #1F7DC3;
+    background-color: #ffffff;
 
   }
 
@@ -34,6 +49,12 @@ body{
 
   }
 
+  p{
+
+    padding: 1%;
+
+  }
+
   .Banner{
 
     width: 100%;
@@ -43,9 +64,10 @@ body{
 
   .Container{
     
-    background-color: #1F7DC3;
+    background-color: #eef4f8;
     width: 80%;
     margin: auto;
+    padding: 2%;
 
   }
 
@@ -97,7 +119,7 @@ body{
     height: 30%;
 
   }
-  
+
   .Pica{
 
     width: 30%;
