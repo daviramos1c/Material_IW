@@ -15,7 +15,7 @@ body{
 
     padding-bottom: 3%;
     padding-top: 2%;
-    font-size: 140%;
+    font-size: 200%;
 
   }
 
@@ -23,7 +23,7 @@ body{
 
     padding-top: 2%;
     padding-bottom: 2%;
-    font-size: 120%;
+    font-size: 150%;
 
   }
 
@@ -80,78 +80,24 @@ body{
 
   }
 
-  .Batman{
-
-    width: 30%;
-    height: 30%;
-
-  }
-
-  .Pororo{
-
-    width: 30%;
-    height: 30%;
-
-  }
-
-  .Fria {
-
-    width: 30%;
-    height: 30%;
-
-  }
-
-  .Club{
-
-    width: 30%;
-    height: 30%;
-
-  }
-
-  .Onda{
-
-    width: 30%;
-    height: 30%;
-
-  }
-
-  .Pocoyo{
-
-    width: 30%;
-    height: 30%;
-
-  }
-
-  .Pica{
-
-    width: 30%;
-    height: 30%;
-
-  }
-
-  .Pablo{
-
-    width: 30%;
-    height: 30%;
-
-  }
-
-  .Recruta{
-
-    width: 30%;
-    height: 30%;
-
-  }
-
-  .Pingu{
-
-    width: 30%;
-    height: 30%;
-
-  }
-
   li{
 
     padding-bottom: 1%;
+
+  }
+
+  .Linha{
+
+    display: flex;
+    flex-flow: row wrap;
+    text-align: center;
+    background-color: palevioletred;
+
+  }
+
+  .Top10{
+
+    width: 50%;
+    height: ;
 
   }
