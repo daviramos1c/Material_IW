@@ -91,7 +91,7 @@ body{
     display: flex;
     flex-flow: row wrap;
     text-align: center;
-    background-color: palevioletred;
+    background-color: rgb(148, 148, 148);
 
   }
 
