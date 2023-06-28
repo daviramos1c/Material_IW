@@ -76,10 +76,11 @@ p {
   padding: 2%;
   padding-top: 2%;
   border-radius: 5px;
+  background: linear-gradient(#ffffff, #aaaaaa);
 }
 
 footer {
-  background-color: rgb(65, 173, 255);
+  background-color: #41adff;
   width: 100%;
 }
 
@@ -137,4 +138,25 @@ li {
 
 .Das {
   font-size: 130%;
+}
+
+.cont{
+
+  display: flex;
+  flex-flow: row wrap;
+  text-align: center;
+  
+}
+
+.mini{
+
+  width: 50%;
+  padding-top: 2%;
+
+}
+
+html{
+
+scroll-behavior: smooth;
+
 }
