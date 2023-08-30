@@ -7,6 +7,19 @@ h1 {
   text-align: center;
 }
 
+.inicio{
+  display: inline;
+  background-color: #ffffff;
+}
+
+
+
+.fundoin{
+
+  background-color: white;
+
+}
+
 h2 {
   padding-bottom: 3%;
   padding-top: 2%;
